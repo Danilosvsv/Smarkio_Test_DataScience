@@ -12,13 +12,13 @@ a) Ao baixar o arquivo você deve se atentar com o diretório raiz do conjunto d
 
 dados_Analise_ML = pd.read_excel("C:/Dataset_Desafio/teste_smarkio_lbs.xls", 'Análise_ML')
 
-dados_Analise_ML = pd.read_excel("diretório do dataset na sua máquina", 'Análise_ML')
+dados_Analise_ML = pd.read_excel("diretório do dataset na sua máquina", 'NLP')
 
 Você deve substitui-las por 
 
 dados_Analise_ML = pd.read_excel("diretório do dataset na sua máquina", 'Análise_ML')
 
-dados_Analise_ML = pd.read_excel("diretório do dataset na sua máquina", 'Análise_ML')
+dados_Analise_ML = pd.read_excel("diretório do dataset na sua máquina", 'NLP')
 
 b) Opcional: Também é possível executar o código através do google colab.
 
